@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.jjblanquer_netizen.twa",
-        "sha256_cert_fingerprints": ["07:B7:43:C5:A7:2F:CB:96:2E:65:A3:F0:0A:9D:B9:AC:68:0E:51:06:E8:CC:6F:68:E0:FD:E4:0B:D9:C5:FB:AE"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jjblanquer_netizen.twa",
+    "sha256_cert_fingerprints": ["07:B7:43:C5:A7:2F:CB:96:2E:65:A3:F0:0A:9D:B9:AC:68:0E:51:06:E8:CC:6F:68:E0:FD:E4:0B:D9:C5:FB:AE"]
+  }
+}]
