@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.jjblanquer_netizen.twa",
-    "sha256_cert_fingerprints": ["07:B7:43:C5:A7:2F:CB:96:2E:65:A3:F0:0A:9D:B9:AC:68:0E:51:06:E8:CC:6F:68:E0:FD:E4:0B:D9:C5:FB:AE"]
+    "sha256_cert_fingerprints": [
+      "07:B7:43:C5:A7:2F:CB:96:2E:65:A3:F0:0A:9D:B9:AC:68:0E:51:06:E8:CC:6F:68:E0:FD:E4:0B:D9:C5:FB:AE",
+      "13:1E:7E:CA:84:C1:6E:0D:08:1D:C3:FE:70:7C:CC:30:F1:DE:70:F8:1B:8A:FC:78:5B:87:CD:1F:2E:CD:B8:A2"
+    ]
   }
 }]
